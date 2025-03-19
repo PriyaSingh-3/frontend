@@ -1,2 +1,2 @@
 # frontend
-frontend project design for practice
+frontend project design for practice.
